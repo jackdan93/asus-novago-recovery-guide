@@ -57,7 +57,7 @@ Here I must make a **HUGE THANKS** to GitHub user [@jakibaki](https://github.com
 
 So, the only thing to be done here is to [**download the full repository as a ZIP**](https://github.com/jakibaki/novago-driver-dump/archive/refs/heads/master.zip) and extract it wherever you like, i.e. in "*C:\NovaGo_drivers*" (you can also clone the repo instead, it's up to you).
 
-![GitHub NovaGo Driver Dump repo](./img/github.PNG)
+![GitHub NovaGo Driver Dump repo](./img/github.png)
 
 ## :syringe: Edit the downloaded ISO to include OEM drivers
 
@@ -104,7 +104,7 @@ If you don't have it installed already (and you probably don't), you need to get
 
 During the installation select the "*Deployment tools*" component only (it's about 90mb) and complete it.
 
-![ADK setup](./img/adk.PNG)
+![ADK setup](./img/adk.png)
 
 Now follow these steps:
 
@@ -128,7 +128,7 @@ Download [Rufus](https://rufus.ie/en/#) and run it, then:
 * Click on the "*SELECT*" button and select the ISO created during the previous step
 * The other options should be automatically filled in the correct way (but I'll still leave here a screenshot for reference)
 
-    ![Rufus](./img/rufus.PNG)
+    ![Rufus](./img/rufus.png)
 
 ## :construction: Setup ASUS NovaGo BIOS
 
