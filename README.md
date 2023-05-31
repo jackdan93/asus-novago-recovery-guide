@@ -1,20 +1,18 @@
 # :scroll: Disclaimer
 
-    Please note that this tutorial is for informational purposes only, and the steps outlined may not be suitable for every device or situation.
+> Please note that this tutorial is for informational purposes only, and the steps outlined may not be suitable for every device or situation.
 
-    By using this tutorial, you understand and agree that you assume all risks associated with any actions taken on your device. The author of this tutorial, and the platform hosting it, disclaim any responsibility for any software or hardware damage that may occur as a result of following the instructions provided.
+> By using this tutorial, you understand and agree that you assume all risks associated with any actions taken on your device. The author of this tutorial, and the platform hosting it, disclaim any responsibility for any software or hardware damage that may occur as a result of following the instructions provided.
 
-    Please proceed with caution, ensuring you have a clear understanding of the steps before implementing them. It is highly recommended to back up your important data and create a system restore point (if feasable) before attempting any recovery procedures.
+> Please proceed with caution, ensuring you have a clear understanding of the steps before implementing them. It is highly recommended to back up your important data and create a system restore point (if feasable) before attempting any recovery procedures.
 
-    Performing modifications to your device, including recovery procedures, may void your warranty or violate manufacturer terms of service. Consult official documentation or seek manufacturer support for device-specific guidance.
+> Performing modifications to your device, including recovery procedures, may void your warranty or violate manufacturer terms of service. Consult official documentation or seek manufacturer support for device-specific guidance.
 
-    The information provided in this tutorial is based on the author's knowledge up to May 2023 and may not reflect the most up-to-date methods or best practices. Verify the accuracy and relevance of the information before proceeding.
+> The information provided in this tutorial is based on the author's knowledge up to May 2023 and may not reflect the most up-to-date methods or best practices. Verify the accuracy and relevance of the information before proceeding.
 
-    By utilizing the information in this tutorial, you agree to hold the author and the hosting platform harmless from any liability, including software/hardware damage, data loss, or other consequences arising from the use of this information.
+> By utilizing the information in this tutorial, you agree to hold the author and the hosting platform harmless from any liability, including software/hardware damage, data loss, or other consequences arising from the use of this information.
 
-    Proceeding with the tutorial indicates your acceptance of these terms and conditions. If you do not agree, please refrain from using the tutorial.
-
-<br>
+> Proceeding with the tutorial indicates your acceptance of these terms and conditions. If you do not agree, please refrain from using the tutorial.
 
 # :computer: ASUS NovaGo TP370QL Recovery 
 
@@ -154,15 +152,11 @@ Here's the final step: just **put the USB drive you prepared into the PC and tur
 
 OEM drivers are already included in the ISO, so no further operation is required, only installation.
 
-<br>
-
 # :100: Conclusion
 
 Armed with the knowledge and steps outlined in this guide, you now know how to effectively troubleshoot and fix a Windows installation on an ASUS NovaGo laptop.
 
 I seriously hope this guide helped you, especially because I put a lot of effort in writing it!
-
-<br>
 
 # :muscle: Support my work
 
